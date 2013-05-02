@@ -1,4 +1,6 @@
 2d-sidescroller
 ===============
 
-2d side scroller using libgdx
+--- Libgdx API ----
+
+*2d side scroller using libgdx
